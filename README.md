@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akerele
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning laravel.
-- 💞️ I’m looking to collaborate on laravel, react, react native, MERN stack
+- 💞️ I’m looking to collaborate on laravel, livewire, PHP, Javascript, react, react native, MERN stack
 - 📫 How to reach me akereleayomide106@gmail.com
 
 <!---
