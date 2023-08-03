@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning laravel.
 - 💞️ I’m looking to collaborate on laravel, livewire, PHP, Javascript, react, flutter, MERN stack
-- 📫 How to reach me akereleayomide106@gmail.com
+- 📫 How to reach me arkdevlarry@gmail.com
 
 <!---
 ArkDevLarry/ArkDevLarry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
