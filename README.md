@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akerele
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning REACT.
-- 💞️ I’m looking to collaborate on laravel, livewire, PHP, Javascript, React, Flutter, Solidity
+- 💞️ I’m looking to collaborate on laravel, livewire, PHP, Javascript, React, Flutter, Solidity, AWS
 - 📫 How to reach me arkdevlarry@gmail.com
 
 <!---
